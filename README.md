@@ -1,4 +1,4 @@
-# Pandas Data Analysis and Visualization Projects
+# Comprehensive Multi-domain EDA in python Using Pandas & Matplotlib
 
 This repository contains a collection of Python data analysis exercises using `pandas`, `numpy`, and `matplotlib`. It covers a diverse range of topics, including demographics, sports statistics, weather patterns, restaurant sales, historical events, and social trends. Each exercise is designed to improve your data wrangling, analysis, and visualization skills.
 
